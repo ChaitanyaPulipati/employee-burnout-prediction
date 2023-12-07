@@ -3,18 +3,6 @@
 ![Burnout Image](https://github.com/usmanbvp/Employees-Burnout-Analysis-and-Prediction/assets/119880028/451b2681-14ff-41bf-81ae-57cd3251ee1a)
 
 
-<div style = "text-align : center">
-
-![GitHub forks](https://img.shields.io/github/forks/usmanbvp/Employees-Burnout-Analysis-and-Prediction?style=flat-square&logo=github)
-![GitHub Repo stars](https://img.shields.io/github/stars/usmanbvp/Employees-Burnout-Analysis-and-Prediction?logo=GitHub)
-![GitHub contributors](https://img.shields.io/github/contributors/usmanbvp/Employees-Burnout-Analysis-and-Prediction?logo=github&color=blue)
-[![Static Badge](https://img.shields.io/badge/View%20Demo-orange?style=flat-square&logo=github&logoColor=black&labelColor=hex)](https://employeesburnoutprediction.pythonanywhere.com/)
-[![MIT License](https://img.shields.io/badge/MIT%20License-blue?style=flat-square&logo=Github&logoColor=black)](https://github.com/usmanbvp/Employees-Burnout-Analysis-and-Prediction/blob/main/LICENSE)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/usmanbvp/Employees-Burnout-Analysis-and-Prediction?style=flat-square&logo=github&logoColor=black)
-![GitHub issues](https://img.shields.io/github/issues/usmanbvp/Employees-Burnout-Analysis-and-Prediction?logo=github&logoColor=black)
-
-</div>
-
 ## 📝 Description
 
 - This project aims to develop a predictive model using machine learning techniques to predict burnout rate of a Employee based on various factors. 
